@@ -1,0 +1,70 @@
+body {/* follow this method */
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: palevioletred; /* Set background color for body */
+}
+
+#index {
+    height: 80px;
+    background-color: gold; /* Change background color to gold for #index */
+    color: red;
+    text-align: center;
+}
+button{
+    
+    height:30px;
+    background-color:green;
+}
+
+#i1{
+    color:blue;
+    border:10px solid brown;
+    border-radius: 25%;
+    height:400px;
+    text-align:center;
+    background-image:url("https://img.freepik.com/premium-photo/awesome-summer-beach-illustration-background-summer-beach-artwork_741910-19541.jpg?w=900" );
+    background-repeat:no-repeat;
+    background-size:100%;
+    overflow:auto;
+    font-style:serif;
+}
+
+#i2{
+    color:blue;
+    border:10px solid pink;
+    border-radius: 25%;
+    height:400px;
+    text-align:center;
+    background-image:url("https://thumbs.dreamstime.com/b/colorful-winter-morning-mountains-dramatic-overcast-sky-view-snow-covered-conifer-trees-sunrise-merry-christmas-s-63891358.jpg");
+    background-repeat:no-repeat;
+    background-size:100%;
+    overflow:auto;
+    font-style:serif;
+}
+#i3{
+    color:blue;
+    border:10px solid violet;
+    border-radius: 25%;
+    height:400px;
+    text-align:center;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZz3Mf0XHSnrtDUvqj25kLob6z3e5-kAozzWQ4xSetyg&s");
+    background-repeat:no-repeat;
+    max-width: 100%;
+    max-height: 100%;
+    background-size:100%;
+    overflow:auto;
+    font-style:serif;
+}
+#i4{
+    color:blue;
+    border:10px solid green;
+    border-radius: 25%;
+    height:400px;
+    text-align:center;
+    background-image:url("https://www.desktopbackground.org/p/2010/11/28/118247_awesome-spring-scenes-desktop-wallpapers-jpg_1024x768_h.jpg");
+    background-repeat:no-repeat;
+    background-size:100%;
+    overflow:auto;
+    font-style:serif;
+}
