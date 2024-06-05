@@ -1,0 +1,42 @@
+
+#head {
+    height: 160px;
+    width: 48px;
+    padding: 40px 60px 80px 40px;
+    margin: 40px 40px 0px 40px;
+    background-color: black;
+}
+
+#one {
+    height: 40px;
+    width: 40px;
+    border-radius: 100%;
+    background-color: red;
+    padding: 8px;
+    margin: 10px;
+}
+
+#two {
+    height: 40px;
+    width: 40px;
+    border-radius: 100%;
+    background-color: white;
+    padding: 8px;
+    margin: 10px;
+}
+
+#three {
+    height: 40px;
+    width: 40px;
+    border-radius: 100%;
+    background-color: green;
+    padding: 8px;
+    margin: 10px;
+}
+
+#stand {
+    height: 240px;
+    width: 24px;
+    margin-left: 100px;
+    background-color: black;
+}
