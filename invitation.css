@@ -1,0 +1,66 @@
+*{
+    font-style:italic;
+}
+body{
+    background-color:violet;
+}
+header{
+    height:50px;
+    background-color: crimson;
+    text-align: center;
+    text-decoration:underline;
+    border:10px solid lightseagreen;
+    
+}
+main{
+    padding:100px;
+    height:1700px;
+    border-radius: 10%;
+    border:10px solid goldenrod;
+    background-color: purple;
+   
+    }   
+
+#first{
+
+ height:1100px;
+ width:750px; 
+ border:10px solid lightgreen;
+ border-radius:40%;
+ background-image: url("https://i.pinimg.com/736x/db/45/69/db45694a254fdb66197a252c6a7a0429.jpg");
+ background-size: cover;
+ background-repeat: no-repeat;
+ 
+}
+#second{
+    height: 550px;
+    width:550px;
+    border:10px solid darkgreen;
+    border-radius:100%;
+    background-image: url("https://t4.ftcdn.net/jpg/06/23/19/05/360_F_623190597_vKwXSZNFqr5IZtPk6nIVwwkWfMPyvOj5.jpg");   
+    background-size: cover; 
+    background-repeat: no-repeat;
+    float: right;          
+}
+#matter{
+    height:170px;
+    border:10px solid purple;
+    margin:5px;
+    padding:20px;
+    padding-bottom: 70px;
+    border-radius:15%;
+    line-height: 40px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   background-color: orange;
+}
+
+footer{
+    height:50px;
+    background-color: crimson;
+    text-align: center;
+    text-decoration:underline;
+    border:10px solid lightseagreen;
+}
+#end{
+    text-align: right;
+}
