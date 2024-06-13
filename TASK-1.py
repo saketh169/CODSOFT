@@ -33,7 +33,7 @@ def delete_task():
 
 def main():
     while True:
-        print("\n1. Show tasks")
+        print("1. Show tasks")
         print("2. Add task")
         print("3. Delete task")
         print("4. Exit")
